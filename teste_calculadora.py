@@ -5,4 +5,4 @@ def main():
     soma = calculadora.soma(a, b)
     print(f'{a} + {b} = {soma}')
 
-    main()
+main()
